@@ -18,4 +18,6 @@
 
 ## Java
 
-* [Page 1](java/page-1.md)
+* [java知识点(1)](java/java-zhi-shi-dian-1.md)
+* [java知识点(2)](java/java-zhi-shi-dian-2.md)
+* [java知识点(3)](java/java-zhi-shi-dian-3.md)
